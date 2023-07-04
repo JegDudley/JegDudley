@@ -1,9 +1,10 @@
-<table padding=0px border-spacing=0px>
-<tr><td padding=0px  border-spacing=0px width=50% align=top>
-
 ### Hello! 👋 ... My name is Jeg Dudley :rocket:
 
 I'm a software developer and computational designer, working in London. I lead a small software development team, creating applications for the AEC industry. :triangular_ruler::hammer::bank: 
+
+<table border-style=dotted padding=0px border-spacing=0px >
+<tr padding=0px border-spacing=0px>
+<td padding=0px border-spacing=0px width=50% valign=top>
 
 #### I regularly use:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,14 +28,16 @@ I'm a software developer and computational designer, working in London. I lead a
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-</td><td valign=top>
+</td>
+
+<td valign=top> 
   
 #### Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JegDudley&theme=vue)](https://git.io/streak-stats)
-</td>...</tr>
 
-<tr><td width=50% align=top></td><td valign=bottom>
 <img src="mona-loading-dark.gif" alt="drawing" width="50" height="50" align="right"/>
-</td>...</tr>
 
-</tbody>
+</td>
+</tr>
+
+</table>
