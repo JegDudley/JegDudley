@@ -1,6 +1,9 @@
-#### Hi! 👋 - My name is Jeg Dudley :rocket:
+<table padding=0px border-spacing=0px>
+<tr><td padding=0px  border-spacing=0px width=50% align=top>
 
-I'm a software developer and computational designer, living in London. I currently work on applications within the AEC industry.:hammer: 
+### Hello! 👋 ... My name is Jeg Dudley :rocket:
+
+I'm a software developer and computational designer, working in London. I lead a small software development team, creating applications for the AEC industry. :triangular_ruler::hammer::bank: 
 
 #### I regularly use:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,20 +27,14 @@ I'm a software developer and computational designer, living in London. I current
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-
+</td><td valign=top>
+  
 #### Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JegDudley&theme=vue)](https://git.io/streak-stats)
+</td>...</tr>
 
-<!-- vue -->
-<!-- github-light -->
-
-<!-- calmly coding 🌊 -->
-<!-- <h1>🌊 🐠 🐒</h1> -->
-<!-- <h3>🌊 🐠 🐒</h3> -->
-
-
-<!-- :octocat: -->
-<!-- ![](mona-loading-dark.gif) -->
-<!-- Leave :octocat: at the end. -->
-
+<tr><td width=50% align=top></td><td valign=bottom>
 <img src="mona-loading-dark.gif" alt="drawing" width="50" height="50" align="right"/>
+</td>...</tr>
+
+</tbody>
