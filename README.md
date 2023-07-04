@@ -2,11 +2,12 @@
 
 I'm a software developer and computational designer, working in London. I lead a small software development team, creating applications for the AEC industry. :triangular_ruler::hammer::bank: 
 
-<table border-style=dotted padding=0px border-spacing=0px >
-<tr padding=0px border-spacing=0px>
-<td padding=0px border-spacing=0px width=50% valign=top>
+<table border-style=none border-top=0px  padding=0px border-spacing=0px >
+<tr padding=0px border-top=0px  border-spacing=0px>
+<td padding=0px border-top=0px border-spacing=0px width=50% valign=top>
 
-#### I regularly use:
+**I regularly use:**
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,17 +28,15 @@ I'm a software developer and computational designer, working in London. I lead a
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
 </td>
 
 <td valign=top> 
   
-#### Stats:
+**Stats:**
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JegDudley&theme=vue)](https://git.io/streak-stats)
 
 <img src="mona-loading-dark.gif" alt="drawing" width="50" height="50" align="right"/>
 
 </td>
 </tr>
-
 </table>
