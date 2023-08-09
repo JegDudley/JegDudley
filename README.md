@@ -1,6 +1,6 @@
 ### Hello! 👋 ... My name is Jeg Dudley.
 
-I'm a software developer and computational designer, working in London. I lead a 5-person software development team, creating applications for the AEC industry. :triangular_ruler::hammer::bank: 
+I'm a software developer and computational designer, working in London. I lead a 5-person software development team, creating web-based and client-based applications for the AEC industry. :triangular_ruler::hammer::bank: 
 
 <table border-style=none border-top=0px  padding=0px border-spacing=0px >
 <tr padding=0px border-top=0px  border-spacing=0px>
