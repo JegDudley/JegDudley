@@ -145,13 +145,13 @@ etc.
     <img src="visual_studio.svg" height="25">
 </picture>
 <picture>
-    <img src="ssms.svg" height="25">
+    <img src="./ssms.svg" height="25">
 </picture>
 <picture>
-    <img src="vs_code.svg" height="25">
+    <img src="./vs_code.svg" height="25">
 </picture>
 <picture>
-    <img src="spyder.svg" height="25">
+    <img src="./spyder.svg" height="25">
 </picture>
 
 .
