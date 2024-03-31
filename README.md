@@ -1,42 +1,221 @@
-### Hello! 👋 ... My name is Jeg.
+<picture>
+<img src="github-header-image-1.png">
+</picture>
+.
 
-I'm a software developer and computational designer, working in London. I lead a 5-person software development team, creating web-based and client-based applications for the AEC industry. :triangular_ruler::hammer::bank: 
+I am a full-stack software developer and computational designer, working in London.
 
-<table border-style=none border-top=0px  padding=0px border-spacing=0px >
-<tr padding=0px border-top=0px  border-spacing=0px>
-<td padding=0px border-top=0px border-spacing=0px width=50% valign=top>
+I lead a 4-person software dev team, creating web-based and client-based applications for the AEC industry (Architecture, Engineering & Construction). 
 
-**I regularly use:**
+<h3> :triangular_ruler::hammer::bank: </h3>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![microsoft VSTO](https://img.shields.io/badge/Microsoft%20Office%20VSTO-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+.
 
-#### Currently learning:
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-</td>
+## Programming Languages, Frameworks, APIs & Software
+_** denotes limited experience._
 
-<td valign=top> 
-  
-**Stats:**
+**Client-based programming:**
+<picture>
+    <img src="c_sharp.svg" height="25">
+</picture>
+<picture>
+    <img src="dot_net.svg" height="25">
+</picture>
+<picture>
+    <img src="python.svg" height="25">
+</picture>
+<picture>
+    <img src="wpf.svg" height="25">
+</picture>
+<picture>
+    <img src="vsto.svg" height="25">
+</picture>
+and APIs for 
+<picture>
+    <img src="excel.svg" height="25">
+</picture>
+<picture>
+    <img src="outlook.svg" height="25">
+</picture>
+etc.
+
+**Database systems:**
+<picture>
+    <img src="t_sql.svg" height="25">
+</picture>
+<picture>
+    <img src="sql_server.svg" height="25">
+</picture>
+<picture>
+    <img src="sql_server_agent.svg" height="25">
+</picture>
+
+**Server-side programming:**
+<picture>
+    <img src="blazor_server.svg" height="25">
+</picture>
+<picture>
+    <img src="asp_net.svg" height="25">
+</picture>
+<picture>
+    <img src="http.svg" height="25">
+</picture>
+<picture>
+    <img src="web_apis.svg" height="25">
+</picture>
+
+
+**Front-End Web:**
+<picture>
+    <img src="blazor_wasm.svg" height="25">
+</picture>
+<picture>
+    <img src="javascript.svg" height="25">
+</picture>
+<picture>
+    <img src="html.svg" height="25">
+</picture>
+<picture>
+    <img src="css.svg" height="25">
+</picture>
+
+**Unit/ Integration/ Endpoint Testing:**
+<picture>
+    <img src="xunit.svg" height="25">
+</picture>
+<picture>
+    <img src="coverlet.svg" height="25">
+</picture>
+<picture>
+    <img src="report_generator.svg" height="25">
+</picture>
+<picture>
+    <img src="cake.svg" height="25">
+</picture>
+
+**Cloud Computing:**
+<picture>
+    <img src="aws.svg" height="25">
+</picture>
+<picture>
+    <img src="azure.svg" height="25">
+</picture>
+<picture>
+    <img src="google_cloud.svg" height="25">
+</picture>
+
+**Visualisation & Analytics:**
+<picture>
+    <img src="power_bi.svg" height="25">
+</picture>
+<picture>
+    <img src="three_js.svg" height="25">
+</picture>
+<picture>
+    <img src="plotly.svg" height="25">
+</picture>
+<picture>
+    <img src="pandas.svg" height="25">
+</picture>
+<picture>
+    <img src="google_maps_api.svg" height="25">
+</picture>
+
+**Documentation:** 
+<picture>
+    <img src="swagger.svg" height="25">
+</picture>
+<picture>
+    <img src="doc_fx.svg" height="25">
+</picture>
+<picture>
+    <img src="mermaid.svg" height="25">
+</picture>
+
+**Version Control:**
+<picture>
+    <img src="git_hub.svg" height="25">
+</picture>
+<picture>
+    <img src="git_hub_actions.svg" height="25">
+</picture>
+
+**IDEs:**
+<picture>
+    <img src="visual_studio.svg" height="25">
+</picture>
+<picture>
+    <img src="ssms.svg" height="25">
+</picture>
+<picture>
+    <img src="vs_code.svg" height="25">
+</picture>
+<picture>
+    <img src="spyder.svg" height="25">
+</picture>
+
+.
+
+## Key Skills
+
+- <picture>
+    <img src="data_structures_algorithms.svg" height="25">
+</picture>
+
+- <picture>
+    <img src="database_design_normalization.svg" height="25">
+</picture>
+
+- <picture>
+    <img src="ui_ux_design.svg" height="25">
+</picture>
+
+- <picture>
+    <img src="extract_transform_load.svg" height="25">
+</picture>
+
+- <picture>
+    <img src="data_visualisation.svg" height="25">
+</picture>
+
+.
+
+## Computational Design
+Prior experience in the AEC domain:
+
+<picture>
+    <img src="visual_programming.svg" height="25">
+</picture>
+<picture>
+    <img src="physics_simulation.svg" height="25">
+</picture>
+<picture>
+    <img src="shape_optimisation.svg" height="25">
+</picture>
+<picture>
+    <img src="design_for_manufacture.svg" height="25">
+</picture>
+<picture>
+    <img src="nurbs_modelling.svg" height="25">
+</picture>
+<picture>
+    <img src="rhinocommon.svg" height="25">
+</picture>
+<picture>
+    <img src="grasshopper.svg" height="25">
+</picture>
+<picture>
+    <img src="revit.svg" height="25">
+</picture>
+<picture>
+    <img src="sap2000.svg" height="25">
+</picture>
+
+.
+
+## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JegDudley&theme=vue)](https://git.io/streak-stats)
 
+<picture>
 <img src="mona-loading-dark.gif" alt="drawing" width="50" height="50" align="right"/>
-
-</td>
-</tr>
-</table>
+</picture>
