@@ -1,214 +1,99 @@
 <picture>
-<img src="github-header-image-1.png"/>
-</picture>
-.
-
-I am a full-stack software developer and computational designer, working in London.
-
-I lead a 4-person software dev team, creating web-based and client-based applications for the AEC industry (Architecture, Engineering & Construction). 
-
-<h3> :triangular_ruler::hammer::bank: </h3>
-
-.
-
-## Programming Languages, Frameworks, APIs & Software
-_** denotes limited experience._
-
-**Client-based programming:**
-<picture>
-    <img src="c_sharp.svg" height="25"/>
-</picture>
-<picture>
-    <img src="dot_net.svg" height="25"/>
-</picture>
-<picture>
-    <img src="python.svg" height="25"/>
-</picture>
-<picture>
-    <img src="wpf.svg" height="25"/>
-</picture>
-<picture>
-    <img src="vsto.svg" height="25"/>
-</picture>
-and APIs for 
-<picture>
-    <img src="excel.svg" height="25"/>
-</picture>
-<picture>
-    <img src="outlook.svg" height="25"/>
-</picture>
-etc.
-
-**Database systems:**
-<picture>
-    <img src="t_sql.svg" height="25"/>
-</picture>
-<picture>
-    <img src="sql_server.svg" height="25"/>
-</picture>
-<picture>
-    <img src="sql_server_agent.svg" height="25"/>
-</picture>
-
-**Server-side programming:**
-<picture>
-    <img src="blazor_server.svg" height="25"/>
-</picture>
-<picture>
-    <img src="asp_net.svg" height="25"/>
-</picture>
-<picture>
-    <img src="http.svg" height="25"/>
-</picture>
-<picture>
-    <img src="web_apis.svg" height="25"/>
-</picture>
-
-**Front-End Web:**
-<picture>
-    <img src="blazor_wasm.svg" height="25"/>
-</picture>
-<picture>
-    <img src="javascript.svg" height="25"/>
-</picture>
-<picture>
-    <img src="html.svg" height="25"/>
-</picture>
-<picture>
-    <img src="css.svg" height="25"/>
-</picture>
-
-**Unit/ Integration/ Endpoint Testing:**
-<picture>
-    <img src="xunit.svg" height="25"/>
-</picture>
-<picture>
-    <img src="coverlet.svg" height="25"/>
-</picture>
-<picture>
-    <img src="report_generator.svg" height="25"/>
-</picture>
-<picture>
-    <img src="cake.svg" height="25"/>
-</picture>
-
-**Cloud Computing:**
-<picture>
-    <img src="aws.svg" height="25"/>
-</picture>
-<picture>
-    <img src="azure.svg" height="25"/>
-</picture>
-<picture>
-    <img src="google_cloud.svg" height="25"/>
-</picture>
-
-**Visualisation & Analytics:**
-<picture>
-    <img src="power_bi.svg" height="25"/>
-</picture>
-<picture>
-    <img src="three_js.svg" height="25"/>
-</picture>
-<picture>
-    <img src="plotly.svg" height="25"/>
-</picture>
-<picture>
-    <img src="pandas.svg" height="25"/>
-</picture>
-<picture>
-    <img src="google_maps_api.svg" height="25"/>
-</picture>
-
-**Documentation:** 
-<picture>
-    <img src="swagger.svg" height="25"/>
-</picture>
-<picture>
-    <img src="doc_fx.svg" height="25"/>
-</picture>
-<picture>
-    <img src="mermaid.svg" height="25"/>
-</picture>
-
-**Version Control:**
-<picture>
-    <img src="git_hub.svg" height="25"/>
-</picture>
-<picture>
-    <img src="git_hub_actions.svg" height="25"/>
-</picture>
-
-**IDEs:**
-<picture>
-    <img src="visual_studio.svg" height="25"/>
-</picture>
-<picture>
-    <img src="ssms.svg" height="25"/>
-</picture>
-<picture>
-    <img src="vs_code.svg" height="25"/>
-</picture>
-<picture>
-    <img src="spyder.svg" height="25"/>
+<img src="github-header-2.png"/>
 </picture>
 
 .
 
-## Key Skills
+I'm a full-stack software developer, working in London.
 
-- <picture>
-    <img src="data_structures_algorithms.svg" height="25"/>
-</picture>
-
-- <picture>
-    <img src="database_design_normalization.svg" height="25"/>
-</picture>
-
-- <picture>
-    <img src="ui_ux_design.svg" height="25"/>
-</picture>
-
-- <picture>
-    <img src="extract_transform_load.svg" height="25"/>
-</picture>
-
-- <picture>
-    <img src="data_visualisation.svg" height="25"/>
-</picture>
+I lead a 5-person software dev team, creating web-based and client-based applications for the AEC industry (Architecture, Engineering & Construction). 
 
 .
 
-## Computational Design
-Prior experience in the AEC domain:
+## Languages, Frameworks, APIs & Software:
 
-<picture>
-    <img src="visual_programming.svg" height="25"/>
-</picture>
-<picture>
-    <img src="physics_simulation.svg" height="25"/>
-</picture>
-<picture>
-    <img src="shape_optimisation.svg" height="25"/>
-</picture>
-<picture>
-    <img src="design_for_manufacture.svg" height="25"/>
-</picture>
-<picture>
-    <img src="nurbs_modelling.svg" height="25"/>
-</picture>
-<picture>
-    <img src="rhinocommon.svg" height="25"/>
-</picture>
-<picture>
-    <img src="grasshopper.svg" height="25"/>
-</picture>
-<picture>
-    <img src="revit.svg" height="25"/>
-</picture>
-<picture>
-    <img src="sap2000.svg" height="25"/>
-</picture>
+- **Primary Experience in:** `C#` `.NET` `SQL Server` `Terraform`
+
+also...
+
+- **Database programming:** `SQL Server` modules: `Agent` `Query Optimizer` `Profiler`
+
+- **Server & API programming:** `ASP.NET` `Blazor Server` `HTTP Requests` `WebAPIs` inc. Auth via `Azure Entra`
+
+- **Infrastructure as Code:** `Terraform`
+
+- **Web and UIs:** `Javascript` `(Mud)Blazor WASM` `HTML` `CSS` `WPF` 
+
+- **Cloud Computing:** `Azure` `AWS` `Google Cloud**`
+
+- **Client-based programming:** Many of the systems above, and also `VSTO` and APIs for `MS Excel` `MS Outlook` etc.
+
+- **Unit/ Integration/ Endpoint Testing:** `xUnit` `Coverlet` `ReportGenerator` 
+
+- **Visualisation & Analytics:** `PowerBI` `Three.js` `Plotly` `GoogleMaps API`
+
+- **Documentation:** `SwaggerUI` `DocFx` 
+
+- **And a whole bunch of other stuff...** `Python**` `Google ProtoBuf` `GitHub Actions` `SQL Connectors` `Entity Framework**` `Mermaid` `NLog` `Cake**` `Pandas**` `nUnit` `WinForms`
+
+`**` _denotes less experience_
+
+.
+
+## Key Skills:
+
+- `Data Structures & Algorithms`
+
+- `Database Design & Normalization`
+
+- `CI/CD`
+
+- `UI/UX design for Web- and Client-based apps`
+
+- `ETL (Extract Transform Load)`
+
+- `Data Visualisation`
+
+.
+
+## Selected Projects:
+
+- **Financial Control & Analysis Toolkit**
+    - Solo developed all aspects of this client-based application. Backend DB, data exchange, all UI & frontend, unit testing, data visualisation, etc.
+    - `C#` `SQL Server` `PowerBI` `xUnit` `MS Excel API` `WPF`  
+
+_
+  
+- **Environmental Simulation Toolkit**
+    - Co-developed this client-based application that simulates wind comfort (via CFD) and thermal comfort. Also utilises cloud-based post-processing.
+    - `C#` `OpenFoam` `Google ProtoBuf` `AWS` `RhinoCommon` `Grasshopper`
+
+_
+
+- **Web API Project**
+    - Solo developed all aspect of this system. Backend DB, API controllers, auth, unit testing, etc.
+    - Creates endpoints for in-house Toolkits: Geotechnical, Financial and HR.
+    - `MudBlazor WebApp (WASM & Server)` `Terraform` `C#` `ASP.NET` `SwaggerUI` `Azure` `xUnit` `MS Hybrid Connectors`
+
+_
+
+- **Control Systems for two synchronised 6-axis ABB Industrial Robots**
+    - Co-developed robotic milling and folding workflows, utilising parametric design software.
+    - `Python` `Grasshopper` `Rhino`
+
+.
+
+## AEC-Specific Skills: 
+
+`Visual programming (Grasshopper)` `Physics Simulation` `Shape Optimisation` `DFM (Design for Manufacture)` `NURBS Modelling` `Rhinocommon API` `Grasshopper API` `Revit API` `SAP2000 API`
+
+.
+
+## Selected Publications:
+
+- Co-author of paper _“Design Space Exploration of Shell Structures Using Quality Diversity Algorithms”_ (2023)
+- Co-author of paper _“Hudson Yards Vessel, New York”_ (2020)
+- Co-author of paper _“The 2016 Serpentine Pavilion: A Case Study in Large-Scale GFRP Structural Design and Assembly”_ (2017)
 
 .
 
