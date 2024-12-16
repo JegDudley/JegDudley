@@ -12,7 +12,7 @@ I lead a 5-person software dev team, creating web-based and client-based applica
 
 ## Languages, Frameworks, APIs & Software:
 
-- **Primary Experience in:** `C#` `.NET` `SQL Server` `Terraform`
+- **Primary Experience in:** `C#` `Python` `.NET` `SQL Server` `Terraform`
 
 also...
 
@@ -34,7 +34,7 @@ also...
 
 - **Documentation:** `SwaggerUI` `DocFx` 
 
-- **And a whole bunch of other stuff...** `Python**` `Google ProtoBuf` `GitHub Actions` `SQL Connectors` `Entity Framework**` `Mermaid` `NLog` `Cake**` `Pandas**` `nUnit` `WinForms`
+- **And a whole bunch of other stuff...** `XArray` `Numpy` `Google ProtoBuf` `GitHub Actions` `SQL Connectors` `Entity Framework**` `Mermaid` `NLog` `Cake**` `Pandas**` `nUnit` `WinForms`
 
 `**` _denotes less experience_
 
