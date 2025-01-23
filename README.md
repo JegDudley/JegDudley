@@ -98,7 +98,7 @@ _
 .
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JegDudley&theme=vue)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=jegdudley&theme=vue&background=EBEBEB00&dates=5C8BEB)
 
 <picture>
 <img src="mona-loading-dark.gif" width="50" height="50" align="right"/>
